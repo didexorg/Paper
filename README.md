@@ -1,3 +1,4 @@
 # Paper
 
-GnuPG
+- GnuPG
+- Postfix, sendmail
